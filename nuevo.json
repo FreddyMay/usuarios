@@ -1,0 +1,24 @@
+{
+"usuarios" : [
+{
+"nombre":"omar",
+"apellido": "chan",
+"edad": 10
+},
+{
+"nombre":"omar",
+"apellido": "chan",
+"edad": 10
+},
+{
+"nombre":"omar",
+"apellido": "chan",
+"edad": 10
+}
+],
+"conductor": {
+"nombre":"omar",
+"apellido": "chan",
+"edad": 10
+}
+}
